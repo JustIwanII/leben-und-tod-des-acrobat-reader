@@ -5,7 +5,7 @@
 
 **_Prolog_**
 
-Normalerweise sollte sich ein Nutzer ohne spezielle Anforderungen nicht auf die Suche nach einem PDF Viewer machen, außer einen stört es, dass Windows die PDF in dem Edge Browser öffnet. Aber da liegt der Fehler schon darin, dass man Windows nutzt, aber dieses Fass soll hier gar nicht aufgemacht werden und dieser fatale Fehler wird dem Sündner ausnahmsweise verziehen. Sollte man bei der Suche dann unglücklicherweise auf das Programm _Adobe Acrobat Reader_ stoßen und man entschließt sich dann noch dazu, dieses Stück Code zu installieren, wird man eine schlechte Zeit haben, eine ziemlich schlechte Zeit. Doch zum Glück begrüßt einen dieses Programm so _iebevoll_ um die Schmerzen zu lindern :)
+Normalerweise sollte sich ein Nutzer ohne spezielle Anforderungen nicht auf die Suche nach einem PDF Viewer machen, außer einen stört es, dass Windows die PDF in dem Edge Browser öffnet. Aber da liegt der Fehler schon darin, dass man Windows nutzt, aber dieses Fass soll hier gar nicht aufgemacht werden und dieser fatale Fehler wird dem Sündner ausnahmsweise verziehen. Sollte man bei der Suche dann unglücklicherweise auf das Programm _Adobe Acrobat Reader_ stoßen und man entschließt sich dann noch dazu, dieses Stück Code zu installieren, wird man eine schlechte Zeit haben, eine ziemlich schlechte Zeit. Doch zum Glück begrüßt einen dieses Programm so _liebevoll_ um die Schmerzen zu lindern :)
 
 **_Kapitel 1: Die Begrüßung_**
 
