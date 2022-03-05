@@ -1,7 +1,7 @@
 # Leben und Tod des Adobe Acrobat Reader
 <sub>_Für eine bessere Stimmung beim Lesen, wird empfohlen, nebenbei [diesen Beat](URL 'https://youtu.be/m4vf6v9mV-w') zu hören_</sub>
 
-_Wegen einer Beschwerde einer gewissen Persönlichkeit muss ich jetzt anmerken, dass das Projekt noch nicht im Ansatz fertig ist._
+<sup>_Wegen einer Beschwerde einer gewissen Persönlichkeit muss ich jetzt anmerken, dass das Projekt noch nicht im Ansatz fertig ist._</sup>
 
 **_Prolog_**
 
