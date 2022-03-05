@@ -1,1 +1,1 @@
-# acrobat-reader-zerstoerung
+# Leben und Tod des Adobe Acrobat Reader
