@@ -5,4 +5,4 @@
 
 Wisst Ihr mit was ihr begrüßt werdet? Genau, mit einem Fenster zum Einloggen. Einloggen, bei einem PDF Reader.  
 
-![test](https://github.com/JustIwanII/acrobat-reader-zerstoerung/blob/main/Archiv/Bilder/image1.png)
+![Loginscreen](https://github.com/JustIwanII/acrobat-reader-zerstoerung/blob/main/Archiv/Bilder/image1.png)
