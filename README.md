@@ -1,5 +1,5 @@
 # Leben und Tod des Adobe Acrobat Reader
-<sub>_Für eine bessere Stimmung beim Lesen, wird empfohlen, nebenbei folgenden [Beat](URL 'https://youtu.be/m4vf6v9mV-w') zu hören: https://youtu.be/m4vf6v9mV-w_</sub>
+<sub>_Für eine bessere Stimmung beim Lesen, wird empfohlen, nebenbei [diesen Beat](URL 'https://youtu.be/m4vf6v9mV-w') zu hören_</sub>
 
 **_Kapitel 1_**
 
